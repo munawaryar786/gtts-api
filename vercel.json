@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/*.py": {
+    "api/tts.py": {
       "runtime": "python3.11"
     }
   }
